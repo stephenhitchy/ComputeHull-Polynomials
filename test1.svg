@@ -1,0 +1,10 @@
+<svg viewBox="0 0 200 200 " xmlns="http://www.w3.org/2000/svg">
+<polyline points= "24 181 31 175 33 172  " style="stroke:black;stroke-width:.1;stroke-opacity:.9;fill:orange;fill-opacity:.4" name="E5" />
+<polyline points= "77 145 77 154 67 156  " style="stroke:black;stroke-width:.1;stroke-opacity:.9;fill:orange;fill-opacity:.4" name="GG" />
+<polyline points= "24 181 33 172 77 145 77 154 24 181  " style="stroke:blue;stroke-width:.15;stroke-opacity:.25;fill:green;fill-opacity:.05;" name="E5-GG" />
+<polyline points= "47 52 56 59 52 59  " style="stroke:black;stroke-width:.1;stroke-opacity:.9;fill:orange;fill-opacity:.4" name="FG" />
+<polyline points= "26 78 35 88 39 84  " style="stroke:black;stroke-width:.1;stroke-opacity:.9;fill:orange;fill-opacity:.4" name="2N" />
+<polyline points= "26 78 26 78 47 52 56 59 39 84 35 88  " style="stroke:blue;stroke-width:.15;stroke-opacity:.25;fill:green;fill-opacity:.05;" name="2N-FG" />
+<polyline points= "24 181 26 78 47 52 56 59 77 145 77 154 24 181  " style="stroke:blue;stroke-width:.15;stroke-opacity:.25;fill:green;fill-opacity:.05;" name="2N-FG-E5-GG" />
+
+</svg>
